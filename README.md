@@ -7,6 +7,8 @@ I'm passionate about coding and enjoy collaborating with friends on various proj
 - 🌱 I’m currently learning new programming languages and technologies.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development and AI.
+- I making Ai tools and websides 
+- my age is 18
 
 ### Connect with me:
 
