@@ -12,7 +12,7 @@ I'm passionate about coding and enjoy collaborating with friends on various proj
 
 ### Connect with me:
 
-- <a herf="https://www.instagram.com/sadew_kawya/"><image width="20" height="20" src="./image/instagram.png"> </a> instagram
-- <a herf="https://www.facebook.com/sadew.kawya.5"><image width="20" height="20" src="./image/facebook.png"> </a> facebook
-- <a herf="https://www.youtube.com/@SADEW_FERNANDO21"><image width="20" height="20" src="/image/youtube.png"> </a> youtube
-- <a herf="https://www.threads.net/@sadew_kawya"><image width="20" height="20" src="/image/threads.png"> </a>threads
+- <a herf="https://www.instagram.com/sadew_kawya/"><image width="20" height="20" src="./image/instagram.png"> instagram </a>
+- <a herf="https://www.facebook.com/sadew.kawya.5"><image width="20" height="20" src="./image/facebook.png"> facebook </a>
+- <a herf="https://www.youtube.com/@SADEW_FERNANDO21"><image width="20" height="20" src="/image/youtube.png"> youtube</a>
+- <a herf="https://www.threads.net/@sadew_kawya"><image width="20" height="20" src="/image/threads.png"> threads</a>
